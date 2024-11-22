@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+.titre{
+    background-color: rgba(255, 255, 255, 0.137);
+    border: none;
+    border-radius: 50px 50px 5px 5px;
+    min-width: fit-content;
+    min-height: fit-content;
+    padding: 15px;
+}
+.generateur{
+    background-color: rgba(255, 255, 255, 0.137);
+    border: none;
+    border-radius: 5px 5px 50px 25px;
+    padding: 15px;
+    min-width: fit-content;
+    min-height: fit-content;
+}
+.result{
+    background-color: rgba(255, 255, 255, 0.253);
+    border-color: rgba(255, 255, 255, 0.301);
+    border-radius: 5px 15px;
+    padding: 5px;
+    width: fit-content;
+    height: fit-content;
+}
+h1{
+    color: rgba(255, 255, 255, 0.295);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#btn{
+    background-color: rgba(255, 255, 255, 0.253);
+    border-color: rgba(255, 255, 255, 0.301);
+    border-radius: 5px 10px;
+    padding: 5px;
+
+}
+#btn:hover{
+    box-shadow: 0 0 10px rgb(255, 255, 255, 0.253),  0 0 80px rgb(255, 255, 255, 0.253),  0 0 160px rgb(255, 255, 255, 0.253),  0 0 320px rgb(255, 255, 255, 0.253);
+}
+#result{
+    background-color: rgba(0, 0, 0, 0);
+    color: cyan;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: fit-content;
+    height: fit-content;
+}
+#result:hover{
+    box-shadow: 0 0 10px cyan,  0 0 80px cyan,  0 0 160px cyan,  0 0 320px cyan;
+    background-color: rgba(0, 255, 255, 0.637);
+    color: black;
+}
