@@ -4,4 +4,4 @@
   
 ## Captures d'écrans
   ![](screenshots/SCS1.png)
-  ![](screenshots/SCS2png)
+  ![](screenshots/SCS2.png)
