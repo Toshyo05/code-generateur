@@ -3,4 +3,5 @@
   interface simple à utiliser
   
 ## Captures d'écrans
-  
+  ![](screenshots/SCS1.png)
+  ![](screenshots/SCS2png)
